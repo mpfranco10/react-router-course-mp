@@ -13,13 +13,13 @@
 
 This is the repository for [ui.dev](https://ui.dev)'s "React Router" course project.
 
-For more information on the course, visit __[ui.dev/react-router](https://ui.dev/react-router)__.
+For more information on the course, visit **[ui.dev/react-router](https://ui.dev/react-router)**.
 
 ### Project
 
 This project is an app for a fictional Basketball league.
 
-You can view the final project __[here](https://basketball-v6.ui.dev/)__
+You can view the final project **[here](https://basketball-v6.ui.dev/)**
 
 ### Branches
 
